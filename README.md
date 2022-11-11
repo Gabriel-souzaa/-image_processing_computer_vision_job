@@ -1,5 +1,5 @@
 <div align="center">
-	 <img alt="calculo" align="center" src="https://i.pinimg.com/originals/6e/eb/df/6eebdf642e4b2e838c150f9526b99e02.jpg" width="140px">
+	 <img alt="calculo" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Synthese%2B.svg/640px-Synthese%2B.svg.png" width="140px">
 </div>
 
 <div align="center">
